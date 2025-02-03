@@ -5,7 +5,6 @@ import * as React from 'react';
 import '@/lib/env';
 
 import ArrowLink from '@/components/links/ArrowLink';
-import ButtonLink from '@/components/links/ButtonLink';
 import Arlinkdeploybutton from '@/components/buttons/Arlinkdeploybutton';
 /**
  * SVGR Support
@@ -16,9 +15,12 @@ import Arlinkdeploybutton from '@/components/buttons/Arlinkdeploybutton';
  */
 import Logo from '~/svg/Logo.svg';
 
-// !STARTERCONF -> Select !STARTERCONF and CMD + SHIFT + F
+// !STARTERCONF -> Select !STARTERCONF and CMD + SHIFT + F also check usage rules.md
 // Before you begin editing, follow all comments with `STARTERCONF`,
 // to customize the default configuration.
+//
+
+
 
 export default function HomePage() {
   return (
