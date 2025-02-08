@@ -63,7 +63,7 @@ const nextConfig = {
 
 - Store static images in /public
 - Configure external images in next.config.js
-- Consider IPFS/Arweave for dynamic images
+- Consider Arfleet/Arweave for dynamic images
 
 ### Authentication
 
